@@ -1,2 +1,2 @@
 # my-first-repo-demo
-author name deep
+author name deep(hello)
